@@ -1,0 +1,3 @@
+stud1 John john@example.com 1234567890 pass1 32534
+stud2 Alice alice@example.com 2345678901 pass2 1
+stud3 Bob bob@example.com 3456789012 pass3 0

@@ -1,0 +1,4 @@
+stud1 CS101
+stud1 MATH201
+stud2 CS101
+stud2 ENG301

@@ -1,0 +1,3 @@
+CS101 IntroToCs 30 prof1
+MATH201 Calculus 35 prof1
+ENG301 Literature 19 prof2
